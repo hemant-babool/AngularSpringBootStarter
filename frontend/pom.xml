@@ -7,12 +7,10 @@
 		<groupId>com.example</groupId>
 		<artifactId>AngularSpringBootStarter</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath>../pom.xml</relativePath>
 	</parent>
 
-	<groupId>com.example</groupId>
 	<artifactId>frontend</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 	<name>AngularSpringBootStarter frontend</name>
 	<description>frontend project of AngularSpringBootStarter</description>
 
